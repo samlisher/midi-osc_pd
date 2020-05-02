@@ -9,4 +9,4 @@ sudo apt-get update && sudo apt-get upgrade --yes && sudo apt-get install pureda
 
 To install:
 
-run the following in terminal : 
+run the following in terminal sudo sh ./install 
