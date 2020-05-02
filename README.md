@@ -12,6 +12,8 @@ sudo sh ./install
 
 'Should' install all dependencies and then copy the correct autostart file over.
 
+You will need to open PD once and under the 'media' tab. Set to ALSA-MIDI and save all settings and apply.
+
 ------------
 
 Install the Korg Config in the folder here to your NanoKontrol2
