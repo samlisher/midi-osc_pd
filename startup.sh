@@ -1,0 +1,11 @@
+#!/bin/bash
+# This script will start Pd in nogui
+# mode and will open the patch
+# named "test.pd"
+echo "Starting Pd..."
+pd -nogui  -alsamidi  /home/pi/MIDI_TO_OSC_PD.pd & disown
+
+sleep 5
+aconnect -x
+aconnect 'nanoKONTROL2':0 'Pure Data':0
+& disown
