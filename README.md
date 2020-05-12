@@ -1,5 +1,5 @@
 # midi-osc_pd
-Clone this to/pi/home to get the needed files.
+Clone this to /pi/home to get the needed files.
 
 git clone https://github.com/samlisher/midi-osc_pd.git
 
