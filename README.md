@@ -1,4 +1,8 @@
 # midi-osc_pd
+This is a MIDI to OSC convertor made using PureData. The patch can be run on any vanilla PD install but these instructions are specifically to be run on the raspberry pi, with the program starting on boot.
+
+------------
+
 Clone this to /pi/home to get the needed files.
 
 git clone https://github.com/samlisher/midi-osc_pd.git
