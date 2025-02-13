@@ -1,4 +1,4 @@
 @lxpanel --profile LXDE-pi
 @pcmanfm --desktop --profile LXDE-pi
-@sh /home/pi/midi-osc_pd/startup.sh
+./startup.sh
 @xscreensaver -no-splash
